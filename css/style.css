@@ -1,25 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
 
-.container
-{
-    display: flex ;
+nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
-.simba
-{
-border-radius: 62px;
-background: #46dd97;
-box-shadow:  17px 17px 35px #d8d7d7,
-             -17px -17px 35px #f3f2f2;
-             
+
+nav h1 {
+    margin: 0;
 }
-.img-responsive
-{
-    width: 200px;
-    height: 300px;
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
 }
-.return
-{
-border-radius: 62px;
-background: #e6e1e1;
-box-shadow:  17px 17px 35px #d8d7d7,
-             -17px -17px 35px #f3f2f2;
+
+.card {
+    width: calc(25% - 20px); /* Adjust width as needed */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+}
+
+.card-body {
+    padding: 10px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+#shoppingCart {
+    list-style-type: none;
+    padding: 0;
+}
+
+#shoppingCart li {
+    margin-bottom: 5px;
 }
