@@ -41,28 +41,28 @@
         "name":"Lily",
         "age":2,
         "gender":"female",
-        "picture":"https://dog.ceo/api/breeds/image/random/5"
+        "picture":"https://i.pinimg.com/474x/c1/66/59/c16659a24bb4f4825397ad7e99d63b5e.jpg"
     },
     {
         "name":"Harley",
         "age":2,
         "gender":"female",
-        "picture":"https://dog.ceo/api/breeds/image/random/3"
+        "picture":"https://i.pinimg.com/236x/7b/89/86/7b8986b36c58c3b3f242cbc085fbf6c8.jpg"
     },
     {
         "name":"Cosmo",
         "age":2,
         "gender":"Male",
-        "picture":"https://dog.ceo/api/breeds/image/random/6"
+        "picture":"https://i.pinimg.com/236x/2a/34/4e/2a344e85f5699b571b05083f89782497.jpg"
     },
     {
-        "name":"Lily",
+        "name":"Siba",
         "age":5,
         "gender":"female",
         "picture":"https://i.pinimg.com/236x/55/bd/23/55bd233e072fced4cc99e68f73b50d9a.jpg"
     },
     {
-        "name":"Harley",
+        "name":"Queen",
         "age":3,
         "gender":"female",
         "picture":"https://i.pinimg.com/236x/f6/68/03/f6680320fc3d65abe245f6e1d2dbfe7c.jpg"
